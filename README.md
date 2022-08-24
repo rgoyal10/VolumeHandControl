@@ -1,5 +1,6 @@
 # VolumeHandControl
 Use your index finger and thumb to control the volume of your device<br />
+
 a) Create a new pycharm project.<br />
 b) Install opencv-python, osascript and mediapipe libraries (mediapipe-silicon for MAC with silicon chip)<br />
 c) Run the file VolumeHandControl.py.<br />
